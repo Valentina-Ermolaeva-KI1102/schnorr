@@ -1,4 +1,4 @@
 schnorr
 =======
 
-it has two modes: 
+it has Au prdocols mode 
